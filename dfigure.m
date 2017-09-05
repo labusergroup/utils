@@ -1,7 +1,7 @@
 % make a docked figure
 function varargout = dfigure(varargin)
 
-% test github
+% it's easy, no?
 if nargin==0
     hfig = figure('windowstyle','docked');
 else
